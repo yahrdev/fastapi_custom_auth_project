@@ -1,0 +1,25 @@
+[
+    {
+        "user": "yahr56@gmail.com",
+        "password": "1234", 
+        "status_code": {"register": 201, "login": 200}
+    },
+
+    {
+        "user": "",
+        "password": "1234", 
+        "status_code": 422
+    },
+
+    {
+        "user": "yahr56@gmail.com",
+        "password": "", 
+        "status_code": 422
+    },
+
+    {
+        "user": "yahr56gmail.com",
+        "password": "", 
+        "status_code": 422
+    }
+]

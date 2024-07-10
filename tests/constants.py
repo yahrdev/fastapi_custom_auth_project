@@ -1,0 +1,5 @@
+testing_email = "user47@example.com"
+testing_password = "string"
+testing_file = "/testtext.txt"
+testing_cash = "testcash"
+testing_add = "test56"
